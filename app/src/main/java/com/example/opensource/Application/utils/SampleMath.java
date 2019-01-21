@@ -241,7 +241,7 @@ public class SampleMath
                 + m.getData()[7] * m.getData()[9] * m.getData()[14]
                 - m.getData()[5] * m.getData()[11] * m.getData()[14]
                 - m.getData()[6] * m.getData()[9] * m.getData()[15]
-                + m.getData()[5] * m.getData()[10] + m.getData()[15];
+                + m.getData()[5] * m.getData()[10] * m.getData()[15];
 
         temp[4] = m.getData()[3] * m.getData()[10] * m.getData()[13]
                 - m.getData()[2] * m.getData()[11] * m.getData()[13]
