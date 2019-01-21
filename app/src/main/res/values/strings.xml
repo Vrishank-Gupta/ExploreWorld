@@ -3,9 +3,9 @@
 
     <string name="app_name">ExploreWorld</string>
     <string name="app_description">VideoPlayback Application</string>
-    
+
     <string name="button_start">Start</string>
-    
+
     <string name="INIT_ERROR">Error</string>
     <string name="INIT_ERROR_DEVICE_NOT_SUPPORTED">Failed to initialize Vuforia. This device is not supported.</string>
     <string name="INIT_ERROR_NO_CAMERA_ACCESS">Failed to initialize Vuforia. Camera not accessible</string>
@@ -29,7 +29,7 @@
     <string name="menu_camera">CAMERA</string>
     <string name="menu_camera_front">Front</string>
     <string name="menu_camera_back">Rear</string>
-        
+
     <string name="splash_screen_description">Vuforia Splash</string>
-    
+
 </resources>
